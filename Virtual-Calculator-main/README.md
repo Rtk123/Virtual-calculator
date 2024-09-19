@@ -7,9 +7,6 @@
 
 In this project, I make a virtual calculator. When the code will execute it will use a webcam input and show the video which it captures in addition to that it will also draw a virtual calculator on the output video. User needs to raise his hand and by using the index finger or middle finger or ring finger he/she click virtually on the calculator and can perform any operation he/she wants. the result will display on the display board in the top part of the calculator. It is recommended to use all your fingers for better performance but you can also try it with 3 or 4 fingers.
 
-<h3><a href="https://youtu.be/oS5uNMbHxyo">https://youtu.be/oS5uNMbHxyo</a></h3><br>
-<a href="https://youtu.be/oS5uNMbHxyo"><strong>Youtube video for demonstration</strong></a><br>
-<a href="https://youtu.be/oS5uNMbHxyo"><img src="data/thumbnail.png"></a>
 
 
 <h3>Description of all files</h3>
@@ -67,9 +64,7 @@ Numpy is only use to save and read values of some array
    
 1. Clone This Repository
    
-```bash
-git clone https://github.com/iTs-rd/Virtual-Calculator.git
-```
+
    
 2. Install The Required Packages
 ```bash
@@ -121,7 +116,7 @@ It will open 2 windows one is your normal live video with calculator drawn on it
 Run these code line by line
 
 ```bash
-git clone https://github.com/iTs-rd/Virtual-Calculator.git
+https://github.com/Rtk123/Virtual-calculator
 cd Virtual-Calculator
 pip install -r requirements.txt
 python index.py
