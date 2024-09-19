@@ -2,7 +2,7 @@
 
 <h3>Introduction</h3>
 
-<strong>If you are curious about how Tony Stark (Iron Man) virtual computer work then this project is a little approach toward it, I hope you will enjoy it.
+<strong>If you are curious about how Ritik Tiwari (Iron Man) virtual computer work then this project is a little approach toward it, I hope you will enjoy it.
  </strong>
 
 In this project, I make a virtual calculator. When the code will execute it will use a webcam input and show the video which it captures in addition to that it will also draw a virtual calculator on the output video. User needs to raise his hand and by using the index finger or middle finger or ring finger he/she click virtually on the calculator and can perform any operation he/she wants. the result will display on the display board in the top part of the calculator. It is recommended to use all your fingers for better performance but you can also try it with 3 or 4 fingers.
